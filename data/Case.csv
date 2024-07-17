@@ -1,0 +1,7 @@
+Guid,SuppliedName,SuppliedEmail,SuppliedPhone,SuppliedCompany,Type,Status,Reason,Origin,Subject,Priority,Description,IsEscalated,Comments
+fec564a4-77f6-4701-b166-d55cb0aaf365,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,false,#N/A
+a84b6c69-8597-470d-be4e-63beb48cbca8,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,false,#N/A
+9f2be9fd-ca43-406b-88b1-94a2b4e7873d,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,false,#N/A
+cc98270b-053b-4be2-9512-15b60f310448,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,false,#N/A
+d1746547-16b0-45f7-92e1-5cd44b0786a5,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,false,#N/A
+17d0f074-c91e-4765-915d-f8cce817cfc9,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,false,#N/A
